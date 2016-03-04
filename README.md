@@ -1,5 +1,7 @@
 # Jekyll Foundation
 
+[![Join the chat at https://gitter.im/kristiandavid/newDawtCalm](https://badges.gitter.im/kristiandavid/newDawtCalm.svg)](https://gitter.im/kristiandavid/newDawtCalm?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://travis-ci.org/core77/jekyll-foundation.svg)](https://travis-ci.org/core77/jekyll-foundation)
 [![devDependencies](https://david-dm.org/core77/jekyll-foundation/dev-status.svg)](https://david-dm.org/core77/jekyll-foundation#info=devDependencies)
 [![Join the chat at https://gitter.im/core77/jekyll-foundation](https://badges.gitter.im/core77/jekyll-foundation.svg)](https://gitter.im/core77/jekyll-foundation?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
